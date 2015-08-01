@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ywqsimmon/test0",
   "devDependencies": {
     "merge": "^1.2.0"
+  },
+  "dependencies": {
+    "merge": "^1.2.0"
   }
 }
