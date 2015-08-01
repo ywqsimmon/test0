@@ -1,3 +1,3 @@
 var merge = require('merge');
 
-console.log('hello,world!');
+console.log('hello,world1!');
